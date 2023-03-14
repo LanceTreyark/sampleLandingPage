@@ -1,0 +1,32 @@
+body {
+  margin: auto;
+  background-color: black;
+  height: 100vh; /* Or whatever */
+  margin: auto;
+
+}
+
+.container {
+  background-color: black;
+  width: 99.8vw;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  /*margin-bottom: auto;*/
+  padding-top: 0px;
+  text-align: center;
+}
+
+.spaceMan {
+  width: 80vw;
+  height: 10rem;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+
+.myLogo7 {
+  width: 25vw;
+ 
+}
+
